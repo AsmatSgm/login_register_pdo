@@ -1,0 +1,6 @@
+1. connection.php
+2. index.php => include bootstrap cdn
+3. register.php
+4. login.php
+5. welcome.php
+6. logout.php
